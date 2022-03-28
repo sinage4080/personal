@@ -1,34 +1,31 @@
-Usage
-=====
+외화획득 목적의 외국인 전용 카지노산업정책=====
 
-.. _installation:
+2004년 국토교통부는 ⌜기업도시개발 특별법⌟에서 관광레저형 기업도시를 대상으로 
+5천억원 이상 투자하는 경우 외국인전용 카지노를 허용하는 특례제도를 도입하였다. 
 
-Installation
-------------
+2006년에 행정자치부와 국토교통부는 
+⌜제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법⌟을 제정하고, 
 
-To use Lumache, first install it using pip:
+제주관광사업에 5억달러 이상 투자하는 조건으로 외국인 전용 카지노 설치를 허용하는 
 
-.. code-block:: console
+특례제도를 도입하였다. 
+산업통상자 원부는 2007년 ⌜경제자유구역의 지정 및 운영에 관한 법률⌟의 개정을 통해 
 
-   (.venv) $ pip install lumache
+5억달러 이상 투자를 하는 등 일정 요건을 갖춘 외국인투자자에 대해 
+외국인 전용 카지노업을 허용하는 특례제도를 도입하였다. 
+
+2009년에는 해양수산부 주관으로 ⌜마리나항만법⌟에서 
+해상 카지노 허용제도 관련 개정이 검토되었다. 
+
+종합하면, ‘외화획득 목적의 외국인 전용 카지노산업정책’의 기존 정책패러다임 하에서 
+기존 패러다임의 내부 전문가인 정부 관료들을 중심으로 지역경제회생의 문제 등 
+
+새롭게 발생한 문제를 대상으로 카지노 허용 기준에 대한 수위 조정, 
 
 Creating recipes
 ----------------
+ `카지노사이트 <https://projectfluent.io/>`_
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+ ` <https://projectfluent.io/>`_
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
