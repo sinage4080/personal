@@ -46,3 +46,12 @@
 - `카지노사이트 <https://projectfluent.io/>`_
 
 - `바카라사이트 검증 플랫폼 카지노컴퍼니 <https://projectfluent.io/>`_
+
+
+.. toctree::
+
+   usage
+   api
+   work
+   
+   
