@@ -43,7 +43,6 @@
 ## 외화획득 목적의 외국인 전용 카지노
 
 
+- `카지노사이트 <https://projectfluent.io/>`_
 
-- [카지노사이트] - 카지노사이트 국내 최고의 자본과 보안을 자랑하는 카지노검증사이트 안내 [https://projectfluent.io/]
--  [카지노사이트](https://projectfluent.io ) 카지노검증사이트
--   [바카라사이트](https://projectfluent.io ) 카지노검증사이트
+- `바카라사이트 검증 플랫폼 카지노컴퍼니 <https://projectfluent.io/>`_
